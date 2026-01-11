@@ -23,3 +23,6 @@ Kubernetes cluster is made up of master(control-plane) and nodes.
 
 # Get all resources of cluster
 --> kubectl get all
+
+# Get memory/cpu utilization 
+--> kubectl top nodes/pod
