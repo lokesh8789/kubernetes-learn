@@ -17,3 +17,6 @@ Kubernetes cluster is made up of master(control-plane) and nodes.
 
 # kubectl client checks for server details from te path:
 --> cat ~/.kube/config
+
+# Get All nodes of cluster
+--> kubectl get nodes
