@@ -16,6 +16,9 @@
 # Delete individual pod
 --> kubectl delete pod <pod_name>
 
+# Delete all pods
+--> kubectl delete pod --all
+
 # More Details about pod
 --> kubectl describe pod
 

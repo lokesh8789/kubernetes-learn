@@ -20,3 +20,6 @@ Kubernetes cluster is made up of master(control-plane) and nodes.
 
 # Get All nodes of cluster
 --> kubectl get nodes
+
+# Get all resources of cluster
+--> kubectl get all
